@@ -21,6 +21,7 @@ a{
     font-size: 30px;
     padding-left: 10px;
 }
+
 @keyframes gradient {
     0% {
         background-position: 0% 50%;
